@@ -75,6 +75,7 @@ android_library {
         "androidx.recyclerview_recyclerview",
         "androidx.window_window",
         "com.google.android.material_material",
+        "VendorSupport-preference",
         "setupcompat",
         "setupdesign",
         "androidx.lifecycle_lifecycle-runtime",
